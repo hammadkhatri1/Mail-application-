@@ -1,0 +1,6 @@
+dear <student>,
+you're courses are registered for the fall semester 
+year 2018
+regards,
+xyz
+
